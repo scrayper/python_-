@@ -16,6 +16,8 @@
 
 
 ※下記、機能説明と合わせてご視聴ください。
+https://drive.google.com/file/d/1HyWyiTE3Kg0Md8Wk9ml-N-37JAeT-0C_/view?usp=sharing
+
 
 
 

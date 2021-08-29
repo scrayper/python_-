@@ -20,7 +20,6 @@
 https://drive.google.com/file/d/1HyWyiTE3Kg0Md8Wk9ml-N-37JAeT-0C_/view?usp=sharing
 
 
-
 ## 機能
 
 ①実行すると、コンソール上でテキスト入力欄が現れる
